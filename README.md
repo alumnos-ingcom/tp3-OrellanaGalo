@@ -1,5 +1,5 @@
 # Trabajo Practico #3
-Plantilla base y archivos de trabajo para el TP3
+Galo Orellana - Comision 1 - Introduccion a la Ingenieria en Computación - 2021
 
 ## Script 1
 
